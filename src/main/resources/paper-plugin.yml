@@ -1,0 +1,4 @@
+name: ItemCommand
+version: '${project.version}'
+main: net.primegames.itemcommand.ItemCommand
+api-version: 1.19
