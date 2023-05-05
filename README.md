@@ -1,2 +1,0 @@
-# ItemCommand
-A PaperMC Plugin
